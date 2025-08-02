@@ -8,7 +8,7 @@ class Test1:
     def Say2():
         print(str)
 
-    str3 = "Test4"
+    str3 = "Test4-b2"
 
 
 Test1.Say()
